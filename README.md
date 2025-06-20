@@ -13,8 +13,8 @@ A curated collection of the most important research papers on diffusion language
 * [05/25/2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) (from RUC) [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-1.5)
 
 ## Multimodal Models
-* [05/22/2025] [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) (from NUS) [![Star](https://img.shields.io/github/stars/yu-rp/Dimple?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/yu-rp/Dimple)
 * [05/21/2025] [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809) (from Princeton) [![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/Gen-Verse/MMaDA)
+* [05/22/2025] [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990) (from NUS) [![Star](https://img.shields.io/github/stars/yu-rp/Dimple?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/yu-rp/Dimple)
 * [05/22/2025] [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839) (from UCLA) [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa)
 * [05/22/2025] [LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning](https://arxiv.org/abs/2505.16933) (from RUC) [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-V?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-V)
 * [05/26/2025] [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.15809) (from HKU)
