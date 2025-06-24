@@ -11,7 +11,7 @@ A curated collection of the most important research papers on diffusion language
 * [02/19/2025] [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917) (from Yale) [![Star](https://img.shields.io/github/stars/hamishivi/tess-2?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/hamishivi/tess-2)
 * [04/02/2025] [Dream 7B](https://hkunlp.github.io/blog/2025/dream/) (from HKU) [![Star](https://img.shields.io/github/stars/HKUNLP/Dream?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/HKUNLP/Dream)
 * [05/25/2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) (from RUC) [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-1.5)
-* [05/25/2025] [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298) (from Inception Labs)
+* [06/17/2025] [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298) (from Inception Labs)
 
 ## Multimodal Models
 * [05/21/2025] [MMaDA: Multimodal Large Diffusion Language Models](https://arxiv.org/abs/2505.15809) (from Princeton) [![Star](https://img.shields.io/github/stars/Gen-Verse/MMaDA?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/Gen-Verse/MMaDA)
