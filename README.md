@@ -33,6 +33,7 @@ A curated collection of the most important research papers on diffusion language
 * [06/02/2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928) (from Cornell) [![Star](https://img.shields.io/github/stars/s-sahoo/Eso-LMs?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/s-sahoo/Eso-LMs)
 * [06/12/2025] [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848) (from SJTU) [![Star](https://img.shields.io/github/stars/LiangrunFlora/Slow-Fast-Sampling?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/LiangrunFlora/Slow-Fast-Sampling)
 * [06/12/2025] [The Diffusion Duality](https://arxiv.org/abs/2506.10892v1) (from Cornell) [![Star](https://img.shields.io/github/stars/s-sahoo/duo?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
+* [06/23/2025] [Plan for Speed -- Dilated Scheduling for Masked Diffusion Language Models](https://arxiv.org/abs/2506.19037v1) (from BGU)
 
 ## Knowledge and Reasoning
 * [02/12/2024] [Diffusion of Thoughts: Chain-of-Thought Reasoning in Diffusion Language Models](https://arxiv.org/abs/2402.07754) (from HKU) [![Star](https://img.shields.io/github/stars/HKUNLP/diffusion-of-thoughts?tab=readme-ov-file.svg?style=social&label=Star)](https://github.com/HKUNLP/diffusion-of-thoughts)
